@@ -1,3 +1,8 @@
+.idea/
+src/main/*.js
+src/main/*.js.map
+webContents/
+
 # Logs
 logs
 *.log
